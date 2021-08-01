@@ -1,7 +1,7 @@
 
 ## Spring 입문 강의
 
-# inflearn에서 김영한 강사님의 스프링 입문 무료 강의를 수강
+# 스프링 입문 무료 강의를 수강
 해당 강의는 아래 링크에 있다.
 <br>
 <a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard" target="_blank"> 강의 링크</a>
